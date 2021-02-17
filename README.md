@@ -96,7 +96,7 @@ plugins:
  - serverless-cloudguard-plugin
 
 custom:
-  protego:
+  cloudguard:
     fsp:
       Enabled: true
     proact:
